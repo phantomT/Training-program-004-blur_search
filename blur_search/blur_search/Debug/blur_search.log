@@ -1,12 +1,2 @@
 ﻿  main.c
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(22): warning C4047: “函数”:“int”与“char *”的间接级别不同
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(22): warning C4024: “read_word”: 形参和实参 2 的类型不同
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(22): warning C4020: “read_word”: 实参太多
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(97): warning C4028: 形参 2 与声明不同
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(97): warning C4029: 声明的形参表不同于定义
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(106): warning C4047: “函数”:“const char *”与“char”的间接级别不同
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(106): warning C4024: “strtok”: 形参和实参 2 的类型不同
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(111): warning C4047: “函数”:“const char *”与“char”的间接级别不同
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(111): warning C4024: “strtok”: 形参和实参 2 的类型不同
-d:\burning\study\github\training-program-004-blur_search\training-program-004-blur_search\blur_search\blur_search\main.c(100): warning C4047: “初始化”:“char”与“char [9]”的间接级别不同
   blur_search.vcxproj -> D:\Burning\Study\Github\Training-program-004-blur_search\Training-program-004-blur_search\blur_search\Debug\blur_search.exe
